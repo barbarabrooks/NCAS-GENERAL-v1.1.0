@@ -1,9 +1,9 @@
 # NCAS-GENERAL-v1.1.0
 This standard applies to 
-    Profiling instrument where the altitude of the range gate varies over the duration of the file.
-    The data products: 
-        aerosol-backscatter-radial-winds
-        depolarisation-ratio
+    1. Profiling instrument where the altitude of the range gate varies over the duration of the file.
+    2. The data products: 
+        2.1 aerosol-backscatter-radial-winds
+        2.2 depolarisation-ratio
         
 This standard ONLY applies to profiling instruments where the altitude of the range gates varies over the duration of the file and to the data products erosol-backscatter-radial-winds & depolarisation-ratio
 Vertical dimension uses "index". 
