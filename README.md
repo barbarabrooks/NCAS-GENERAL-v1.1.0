@@ -6,7 +6,6 @@ This standard applies to
         2.2 depolarisation-ratio
         
 This standard ONLY applies to profiling instruments where the altitude of the range gates varies over the duration of the file and to the data products erosol-backscatter-radial-winds & depolarisation-ratio
-Vertical dimension uses "index". 
 
 It is for profiling instruments (not the radiosondes). The altitude variable and profile variables have dimensions of time and index.
 
